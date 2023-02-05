@@ -1,0 +1,4 @@
+org/yanmakes/lms/config/LMSSpringMVCDispatcherServletInitializer.class
+org/yanmakes/lms/controller/rest/HealthCheckController.class
+org/yanmakes/lms/model/Tutor.class
+org/yanmakes/lms/config/CommonConfig.class
